@@ -5,8 +5,8 @@ def main() -> None:
     terulet = a*a
     kerulet = 4*a
 
-    print("A négyzet területe(T):", terulet)
-    print("A négyzet kerülete(K):", kerulet)
+    print("A négyzet területe(T):", terulet ("m2"))
+    print("A négyzet kerülete(K):", kerulet ("m"))
 
 
 if __name__ == "__main__":
